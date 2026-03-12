@@ -9,3 +9,6 @@ elif n2 > n3 and n1:
     print(f'O segundo número é o maior!')
 elif n3 > n2 and n1:
     print(f'O terceiro número é o maior!')
+else:
+    print('Todos os números são iguais!')
+print('-' * 35)
